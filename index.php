@@ -439,13 +439,13 @@
                               Hung Hom, Kowloon
                               Hong Kong </p>
 
-                              <strong>Phone:</strong>  2766 4129 
-                              <strong>(General Enquiry, Ms Iris Chow)</strong> <br>
+                              <p><strong>Phone:</strong>  2766 4129 </p>
+                              <p><strong>(General Enquiry, Ms Iris Chow)</strong> </p>
 
-                              <strong>Email:</strong>  <a href="sn.hkia@polyu.edu.hk">sn.hkia@polyu.edu.hk</a> <br>
+                              <p><strong>Email:</strong>  <a href="sn.hkia@polyu.edu.hk">sn.hkia@polyu.edu.hk</a></p>
 
-                              <strong>Fax:</strong>  2364 9663
-                              
+                              <p><strong>Fax:</strong>  2364 9663</p>
+
 
                     </div>
                     <div class="col-md-4">
