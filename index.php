@@ -82,15 +82,15 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="index.html" >Home</a>
+                                <a href="index.php" >Home</a>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="service.html">Service</a></li>
+                            <li><a href="about.html"> Event Info</a></li>
+                            <li><a href="service.html">Adjudication</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Abstract & Poster Submission <span class="caret"></span></a>
                                 <div class="dropdown-menu">
                                     <ul>
-                                        <li><a href="404.html">404 Page</a></li>
+                                        <li><a href="404.html">Audience Registration</a></li>
                                         <li><a href="gallery.html">Gallery</a></li>
                                     </ul>
                                 </div>
