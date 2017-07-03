@@ -59,12 +59,12 @@
 
                 <div class="collapse navbar-collapse" id="st-navbar-collapse">
                     <ul class="nav navbar-nav ">
-                        <li><a href="#header">Home</a></li>
-                        <li><a href="#services">Event Info</a></li>
-                        <li><a href="#our-works">Adjudication</a></li>
-                        <li><a href="#pricing">Abstract & Poster Submission</a></li>
-                        <li><a href="#our-team">Audience Registration</a></li>
-                        <li><a href="#contact">Past Events</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="event_info.html">Event Info</a></li>
+                        <li><a href="adjudication.html">Adjudication</a></li>
+                        <li><a href="abstract.html">Abstract & Poster Submission</a></li>
+                        <li><a href="audience_registration.html">Audience Registration</a></li>
+                        <li><a href="past_events.html">Past Events</a></li>
                         <li><a href="#contact">Contact Us</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
@@ -190,7 +190,7 @@
 
                     With the success and fruitful experience from the Geneva event, the HKIA is expected to stimulate innovative ideas and concepts that bring immediate benefits to the patients, clinicians as well as the healthcare industry. We cordially invite healthcare institutions (public or private), universities and colleges, as well as entities and small private enterprises focusing on health innovations in Hong Kong and the Pearl River Delta of China to submit their contributions regarding the solutions, discoveries and innovations in medical and healthcare science to participate in  <strong>The 3rd Hong Kong Innovation Day </strong>. The top three awards will consist of a trophy, a certificate and a cash prize. Assessed on whether the innovations are transformative, impactful, pioneering, strategic, sustainable and adaptable, outstanding team(s) selected by the jury at the Hong Kong Innovation Day should join the Global Healthcare Innovation Day to be held at <strong>Hong Kong in 2018 </strong> to compete for the  <strong>Innovation for Health Award of Excellence </strong>.
                 </div>
-                <!-- <div class="col-md-4 col-sm-6 st-service">
+<!--                <div class="col-md-4 col-sm-6 st-service">
                     <h2><i class="fa fa-desktop"></i> Web Design</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta libero autem, magni veritatis, optio dolor.</p>
                 </div> -->
@@ -265,7 +265,7 @@
 
 
     <!-- OUR TEAM -->
-    <section id="our-team">
+    <!-- <section id="our-team">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -279,80 +279,187 @@
                     <div class="team-member">
                         <div class="member-image">
                             <img class="img-responsive" src="images/members/team1.jpg" alt="">
-                            <div class="member-social">
-                                <ul style="list-style-type:disc">
-                                <li>Angel S.P. Chan Lau Professor in Health and Longevity</li>
-                                <li>Chair Professor of Nursing and Head</li>
-                                <li>Director of WHO Collaborating Centre for Community Health Services</li>
-                                <li>School of Nursing, PolyU</li>
-                                </ul>  
-                            </div>
                         </div>
                         <div class="member-info">
                             <h4> Prof.Alex Molasiotis</h4>
                             <span>General Chair</span>
-                        </div>
-                    </div>
-
-                </div>
-
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img class="img-responsive" src="images/members/team2.jpg" alt="">
-                            <div class="member-social">
-                                <a href=""><i class="fa fa-facebook"></i></a>
-                                <a href=""><i class="fa fa-twitter"></i></a>
-                                <a href=""><i class="fa fa-google-plus"></i></a>
-                                <a href=""><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Dr Thomas Choi</h4>
-                            <span>Programme Chair</span>
+                                <ul style="list-style-type:disc">
+                                <li>Angel S.P. Chan Lau Professor in Health and Longevity
+                                Chair Professor of Nursing </li>
+                                <li>Head Director of WHO Collaborating Centre for Community Health Services
+                                School of Nursing, PolyU</li>
+                                </ul>  
                         </div>
                     </div>
                 </div>
-
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="member-image">
                             <img class="img-responsive" src="images/members/team1.jpg" alt="">
-                            <div class="member-social">
-                                <a href=""><i class="fa fa-facebook"></i></a>
-                                <a href=""><i class="fa fa-twitter"></i></a>
-                                <a href=""><i class="fa fa-google-plus"></i></a>
-                                <a href=""><i class="fa fa-linkedin"></i></a>
-                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4> Dr Thomas Choi</h4>
+                            <span>Programme Chair</span>
+                                <ul style="list-style-type:disc">
+                                <li>Director of Centre for Smart Health
+                                    Associate Professor
+                                    School of Nursing, PolyU</li>
+                                </ul>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="team-member">
+                        <div class="member-image">
+                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Dr Harry Qin</h4>
                             <span>Deputy Chair</span>
+                                <ul style="list-style-type:disc">
+                                <li>Assistant Professor
+                                School of Nursing, PolyU</li>
+                                </ul>  
                         </div>
                     </div>
                 </div>
-
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="member-image">
-                            <img class="img-responsive" src="images/members/team2.jpg" alt="">
-                            <div class="member-social">
-                                <p>Communications Manager <br>
-                                    School of Nursing, PolyU</p>
-                            </div>
+                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Ms Helen HSU</h4>
                             <span>Academy Secretariat</span>
+                                <ul style="list-style-type:disc">
+                                <li>Communications Manager 
+                                School of Nursing, PolyU</li>
+                                </ul>  
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- /OUR TEAM -->
+    <section id="about-us">
+        <div class="container">
+            <div class="row">
+                        <div class="col-md-12">
+                                <div class="section-title">
+                                <br>
+                                    <h1>The 3rd Hong Kong Innovation Day Organizing Committee</h1> 
+                                </div>
+                        </div>
+                <div class="col-sm-6 our-office">
+                    <div id="officer" class="carousel slide" data-ride="carousel">
+                      <!-- Indicators -->
+                      <ol class="carousel-indicators">
+                        <li data-target="#officer" data-slide-to="0" class="active"></li>
+                        <li data-target="#officer" data-slide-to="1"></li>
+                        <li data-target="#officer" data-slide-to="2"></li>
+                        <li data-target="#officer" data-slide-to="3"></li>
+                      </ol>         
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="col-md-11 col-sm-6">
+                                    <div class="team-member">
+                                    <table>
+                                    <tr>
+                                    <td><div class="member-image">
+                                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
+                                        </div></td>
+                                        <td>                                        
+                                           <div class="member-info">     
+                                            <h4> Prof.Alex Molasiotis</h4>
+                                            <span>General Chair</span>
+                                                <ul style="list-style-type:disc">
+                                                <li>Angel S.P. Chan Lau Professor in Health and Longevity
+                                                Chair Professor of Nursing </li>
+                                                <li>Head Director of WHO Collaborating Centre for Community Health Services
+                                                School of Nursing, PolyU</li>
+                                                </ul>  
+                                                </div>
+                                        </td> </tr>
 
+                                    </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-md-11 col-sm-6">
+                                    <div class="team-member">
+                                    <table>
+                                    <tr>
+                                    <td><div class="member-image">
+                                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
+                                        </div></td>
+                                        <td>                                        
+                                           <div class="member-info">     
+                                            <h4> Dr Thomas Choi</h4>
+                                            <span>Programme Chair   </span>
+                                                <ul style="list-style-type:disc">
+                                                <li>Director of Centre for Smart Health
+                                                    Associate Professor
+                                                    School of Nursing, PolyU</li>
+                                                </ul>  
+                                                </div>
+                                        </td></tr>
+                                    </table>
+                                    </div>
+                                </div>    
+                            </div>
+                            <div class="item">
+                                <div class="col-md-11 col-sm-6">
+                                    <div class="team-member">
+                                    <table>
+                                    <tr>
+                                    <td><div class="member-image">
+                                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
+                                        </div></td>
+                                        <td>                                        
+                                           <div class="member-info">     
+                                            <h4> Dr Harry Qin</h4>
+                                            <span>Deputy Chair</span>
+                                                <ul style="list-style-type:disc">
+                                                <li>Assistant Professor
+                                                School of Nursing, PolyU</li>
+                                                </ul>  
+                                                </div>
+                                        </td></tr>
+                                    </table>
+                                    </div>
+                                </div>       
+                            </div>
+                            <div class="item">
+                                <div class="col-md-11 col-sm-6">
+                                    <div class="team-member">
+                                    <table> <tr>
+                                    <td><div class="member-image">
+                                            <img class="img-responsive" src="images/members/team1.jpg" alt="">
+                                        </div></td>
+                                        <td>                                        
+                                           <div class="member-info">     
+                                            <h4> Ms Helen HSU</h4>
+                                            <span>Academy Secretariat</span>
+                                                <ul style="list-style-type:disc">
+                                                <li>Communications Manager 
+                                                School of Nursing, PolyU</li>
+                                                </ul>  
+                                                </div>
+                                        </td> </tr>
+                                    </table>
+                                    </div>
+                                </div>       
+                            </div>
+                        </div>    
+                    </div> <!--/#office-carousel--> 
+<!--                     <div class="col-sm-6">
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- CONTACT -->
     <section id="contact">
         <div class="container">
