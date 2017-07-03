@@ -422,7 +422,8 @@
                     </div>
                 </div>
             </section> <!-- /#feature -->
-                          
+                            
+
             <!--
             ==================================================
             Footer Section Start
@@ -430,11 +431,9 @@
             <footer id="footer">
                 <div class="container">
                     <div class="col-md-8">
-                        <p class="copyright"> Footer </p>
+                        <p class="copyright">footer</p>
                     </div>
                     <div class="col-md-4">
-                        <!-- Social Media -->
-
                     </div>
                 </div>
             </footer> <!-- /#footer -->
