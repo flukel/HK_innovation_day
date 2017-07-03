@@ -431,9 +431,25 @@
             <footer id="footer">
                 <div class="container">
                     <div class="col-md-8">
-                        <p class="copyright">footer</p>
+                        <p class="copyright"><h1>Contact Us</h1></p>
+
+                              <p><h1>Address:</h1>  The Hong Kong Innovation Academy
+                              GH506, School of Nursing
+                              The Hong Kong Polytechnic University
+                              Hung Hom, Kowloon
+                              Hong Kong </p>
+
+                              <h1>Phone:</h1>  2766 4129 
+                              <h1>(General Enquiry, Ms Iris Chow)</h1> <br>
+
+                              <h1>Email:</h1>  <a href="sn.hkia@polyu.edu.hk">sn.hkia@polyu.edu.hk</a> <br>
+
+                              <h1>Fax:</h1>  2364 9663
+                              
+
                     </div>
                     <div class="col-md-4">
+                        <!-- Social Media -->
                     </div>
                 </div>
             </footer> <!-- /#footer -->
