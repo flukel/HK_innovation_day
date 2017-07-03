@@ -17,6 +17,6 @@
     <script src="js/bootstrap.js"></script>
 
     HELLO WORLD<br>
-    TEST
+    TEST page
     </body>
 </html>
