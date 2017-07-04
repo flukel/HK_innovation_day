@@ -103,12 +103,12 @@
                         <div class="mainmenu pull-left">
                             <ul class="nav navbar-nav collapse navbar-collapse">
                                 <li><a href="index.html" class="active">Home</a></li>
-                                <li><a href="404.html">Event Info</a></li>
-                                <li><a href="contact-us.html">Adjudication</a></li>
-                                <li><a href="index.html">Abstract & Poster Submission</a></li>
-                                <li><a href="404.html">Audience Registration</a></li>
-                                <li><a href="contact-us.html">Past Events</a></li>
-                                <li><a href="contact-us.html">Contact Us</a></li>
+                                <li><a href="event_info.html">Event Info</a></li>
+                                <li><a href="adjudication.html">Adjudication</a></li>
+                                <li><a href="abstract.html">Abstract & Poster Submission</a></li>
+                                <li><a href="audience.html">Audience Registration</a></li>
+                                <li><a href="past_events.html">Past Events</a></li>
+                                <li><a href="contact_us.html">Contact Us</a></li>
                             </ul>
 <!--                                 <li class="dropdown"><a href="#">Blog<i class="fa fa-angle-down"></i></a>
                                     <ul role="menu" class="sub-menu">
@@ -224,37 +224,37 @@
                             
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">หน้าหลัก</a></h4>
+                                    <h4 class="panel-title"><a href="index.html">หน้าหลัก</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">หลักการและเหตุผล</a></h4>
+                                    <h4 class="panel-title"><a href="blog1.html">หลักการและเหตุผล</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">วัตกุประสงค์</a></h4>
+                                    <h4 class="panel-title"><a href="blog2.html">วัตกุประสงค์</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">กำหนดการ</a></h4>
+                                    <h4 class="panel-title"><a href="blog3.html">กำหนดการ</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">รูปแบบการนำเสนอผลงาน</a></h4>
+                                    <h4 class="panel-title"><a href="blog4.html">รูปแบบการนำเสนอผลงาน</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">การส่งบทความ</a></h4>
+                                    <h4 class="panel-title"><a href="blog5.html">การส่งบทความ</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="#">การพิจารณาผลงาน</a></h4>
+                                    <h4 class="panel-title"><a href="blog6.html">การพิจารณาผลงาน</a></h4>
                                 </div>
                             </div>
                         </div><!--/category-products-->
@@ -274,7 +274,7 @@
                     <div class="blog-post-area">
                         
                         <div class="single-blog-post">
-                            <h3>หน้าหลัก</h3>
+                            <h3>text text</h3>
                             <div class="post-meta">
                                 <ul>
                                     <li><i class="fa fa-user"></i> ชื่อ</li>
