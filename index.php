@@ -314,39 +314,38 @@
         <div class="footer-widget">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-3">
+                    <div class="col-sm-3 text-center">
                         <div class="single-widget">
                             <ul class="nav nav-pills nav-stacked">
                                 <li><a href="#">text</a></li>
                                 <li><a href="#">text</a></li>
-                                <li><a href="#">text</a></li>
+                               
 
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-3 text-center">
                         <div class="single-widget">
                             <ul class="nav nav-pills nav-stacked">
                                 <li><a href="#">text</a></li>
                                 <li><a href="#">text</a></li>
-                                <li><a href="#">text</a></li>
+                                
 
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-3 text-center">
                         <div class="single-widget">
                             <ul class="nav nav-pills nav-stacked">
                                 <li><a href="#">text</a></li>
                                 <li><a href="#">text</a></li>
-                                <li><a href="#">text</a></li>
-
+                                
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-3 text-center">
                     
-                        <div class="social-networks">
+                        <div class="social-networks ">
                             <h2 class="title text-center">Social Networking</h2>
                             <ul>
                                 <li>
