@@ -27,66 +27,13 @@
 <body>
     <header id="header"><!--header-->
         <div class="header_top"><!--header_top-->
-            <div class="container">
-                <div class="row ">
-                 <div class="col-md-3"></div>
-                    <div class="col-md-6">
+            <div class="container-fluid ">
                         <div class ="img-responsive" >
-                        <img src="images/testimonial-bg.jpg" width="100%" >
-                        </div>
-                    </div>
-                    <div class="col-md-2"></div>
-<!--                     <div class="col-sm-6">
-                    </div> -->
+                        <img src="images/testimonial-bg.jpg" width="100%">
                 </div>
             </div>
         </div><!--/header_top-->
         
-<!--         <div class="header-middle"><!header-middle-->
-            <!-- <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="logo pull-left">
-                            <a href="index.html"><img src="images/home/logo.png" alt="" /></a>
-                        </div>
-                        <div class="btn-group pull-right">
-                            <div class="btn-group">
-                                <button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
-                                    USA
-                                    <span class="caret"></span>
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Canada</a></li>
-                                    <li><a href="#">UK</a></li>
-                                </ul>
-                            </div>
-                            
-                            <div class="btn-group">
-                                <button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
-                                    DOLLAR
-                                    <span class="caret"></span>
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Canadian Dollar</a></li>
-                                    <li><a href="#">Pound</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-8">
-                        <div class="shop-menu pull-right">
-                            <ul class="nav navbar-nav">
-                                <li><a href="#"><i class="fa fa-user"></i> Account</a></li>
-                                <li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
-                                <li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-                                <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                                <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --><!--/header-middle-->
     
         <div class="header-bottom"><!--header-bottom-->
             <div class="container">
@@ -142,34 +89,19 @@
                         
                         <div class="carousel-inner">
                             <div class="item active">
-<!--                                 <div class="col-xs-3">
-                                    <h1><span>ที่ว่าง</span>ใส่อะไรก็ได้</h1>
-                                    <h2>text สีดำ</h2>
-                                    <p>text ธรรมดา</p>
 
-                                </div> -->
                                 <div class="col-md-11">
                                     <img src="images/testimonial-bg.jpg" class ="img-responsive"   >
                                 </div>
                             </div>
                             <div class="item">
-<!--                                 <div class="col-xs-3">
-                                    <h1><span>ที่ว่าง</span>ใส่อะไรก็ได้</h1>
-                                    <h2>text สีดำ</h2>
-                                    <p>text ธรรมดา</p>
 
-                                </div> -->
                                 <div class="col-md-11">
                                     <img src="images/testimonial-bg.jpg" class ="img-responsive"  >
                                 </div>
                             </div>
                             <div class="item">
-<!--                                 <div class="col-xs-3">
-                                    <h1><span>ที่ว่าง</span>ใส่อะไรก็ได้</h1>
-                                    <h2>text สีดำ</h2>
-                                    <p>text ธรรมดา</p>
 
-                                </div> -->
                                 <div class="col-md-11">
                                     <img src="images/testimonial-bg.jpg" class ="img-responsive" >
                                 </div>
@@ -234,7 +166,7 @@
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="blog2.html">วัตกุประสงค์</a></h4>
+                                    <h4 class="panel-title"><a href="blog2.html">วัตถุประสงค์</a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
