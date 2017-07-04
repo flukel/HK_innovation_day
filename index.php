@@ -29,18 +29,20 @@
         <div class="header_top"><!--header_top-->
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <div>
-                        <img src="images/testimonial-bg.jpg" width=50% >
+                 <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                        <div class ="img-responsive" >
+                        <img src="images/testimonial-bg.jpg" width="100%" >
                         </div>
                     </div>
+                    <div class="col-md-2"></div>
 <!--                     <div class="col-sm-6">
                     </div> -->
                 </div>
             </div>
         </div><!--/header_top-->
         
-<!--         <div class="header-middle"><!--header-middle-->
+<!--         <div class="header-middle"><!header-middle-->
             <!-- <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -146,8 +148,8 @@
                                     <p>text ธรรมดา</p>
 
                                 </div> -->
-                                <div class="col-md-6">
-                                    <img src="images/testimonial-bg.jpg" width=185% height=150% alt="" />
+                                <div class="col-md-11">
+                                    <img src="images/testimonial-bg.jpg" class ="img-responsive"   >
                                 </div>
                             </div>
                             <div class="item">
@@ -157,8 +159,8 @@
                                     <p>text ธรรมดา</p>
 
                                 </div> -->
-                                <div class="col-md-6">
-                                    <img src="images/testimonial-bg.jpg" width=185% height=150% alt="" />
+                                <div class="col-md-11">
+                                    <img src="images/testimonial-bg.jpg" class ="img-responsive"  >
                                 </div>
                             </div>
                             <div class="item">
@@ -168,16 +170,11 @@
                                     <p>text ธรรมดา</p>
 
                                 </div> -->
-                                <div class="col-md-6">
-                                    <img src="images/testimonial-bg.jpg" width=185% height=150% alt="" />
+                                <div class="col-md-11">
+                                    <img src="images/testimonial-bg.jpg" class ="img-responsive" >
                                 </div>
                             </div>
-
-                            
-
-                            
-                        </div>
-                        
+                        </div>     
                         <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
                             <i class="fa fa-angle-left"></i>
                         </a>
