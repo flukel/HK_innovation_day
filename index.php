@@ -29,7 +29,7 @@
         <div class="header_top"><!--header_top-->
             <div class="container-fluid ">
                         <div class ="img-responsive" >
-                        <img src="images/testimonial-bg.jpg" width="100%">
+                        <img src="images/testimonial-bg.jpg" width="100%" height="180 pixel">
                 </div>
             </div>
         </div><!--/header_top-->
