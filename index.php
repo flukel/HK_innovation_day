@@ -157,7 +157,6 @@
                                 <div class="panel-heading">
                                         <div class="mainmenu pull-left">
                                         <ul class="nav nav-stacked ">
-
                                         <li ><a href="index.php" class="active" > หน้าหลัก</a></li>
                                         <li ><a href="blog1.html" >หลักการและเหตุผล</a></li>
                                         <li ><a href="blog2.html" >วัตถุประสงค์</a></li>
