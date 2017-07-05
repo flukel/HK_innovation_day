@@ -154,7 +154,7 @@
                                 </div>
                             </div> -->
                             <div class="panel panel-default">
-                                <div class="mainmenu pull-left">
+                                <div class="">
                                 <ul class="nav nav-stacked ">
                                 <li></li>
                                 <li ><a href="index.html" class="active" >หน้าหลัก</a></li>
