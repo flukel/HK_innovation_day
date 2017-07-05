@@ -127,48 +127,43 @@
                     <div class="left-sidebar">
                         <h2>เมนู</h2>
                         <div class="panel-group category-products" id="accordian"><!--category-productsr-->
-<!--                             <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <h4 class="panel-title">
-                                        <a data-toggle="collapse" data-parent="#accordian" href="#mens">
-                                            <span class="badge pull-right"><i class="fa fa-plus"></i></span>
-                                            Mens
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id="mens" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        <ul>
-                                            <li><a href="#">Fendi</a></li>
-                                            <li><a href="#">Guess</a></li>
-                                            <li><a href="#">Valentino</a></li>
-                                            <li><a href="#">Dior</a></li>
-                                            <li><a href="#">Versace</a></li>
-                                            <li><a href="#">Armani</a></li>
-                                            <li><a href="#">Prada</a></li>
-                                            <li><a href="#">Dolce and Gabbana</a></li>
-                                            <li><a href="#">Chanel</a></li>
-                                            <li><a href="#">Gucci</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div> -->
+ 
+                             <div class="panel panel-default">
+                                 <div class="panel-heading">
+                                     <h4 class="panel-title"><a href="index.php">หน้าหลัก</a></h4>
+                                 </div>
+                             </div>
+                             <div class="panel panel-default">
+                                 <div class="panel-heading ">
+                                     <h4 class="panel-title"><a href="blog1.html">หลักการและเหตุผล</a></h4>
+                                 </div>
+                             </div>
+                               <div class="panel panel-default">
+                                 <div class="panel-heading">
+                                     <h4 class="panel-title"><a href="blog2.html">วัตถุประสงค์</a></h4>
+                                 </div>
+                             </div>
                             <div class="panel panel-default">
+                                 <div class="panel-heading">
+                                     <h4 class="panel-title"><a href="blog3.html">กำหนดการ</a></h4>
+                                 </div>
+                             </div>
+                             <div class="panel panel-default">
+                                 <div class="panel-heading">
+                                     <h4 class="panel-title"><a href="blog4.html">รูปแบบการนำเสนอผลงาน</a></h4>
+                                 </div>
+                             </div>
+                             <div class="panel panel-default">
+                                 <div class="panel-heading">
+                                     <h4 class="panel-title"><a href="blog5.html">การส่งบทความ</a></h4>
+                                 </div>
+                             </div>
+                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                        <div class="mainmenu pull-left">
-                                        <ul class="nav nav-stacked ">
-                                        <li ><a href="index.php" class="active" > หน้าหลัก</a></li>
-                                        <li ><a href="blog1.html" >หลักการและเหตุผล</a></li>
-                                        <li ><a href="blog2.html" >วัตถุประสงค์</a></li>
-                                        <li ><a href="blog3.html" >กำหนดการ</a></li>
-                                        <li ><a href="blog4.html" >รูปแบบการนำเสนอผลงาน</a></li>
-                                        <li ><a href="blog5.html" >การส่งบทความ</a></li>
-                                        <li ><a href="blog6.html" >การพิจารณาผลงาน</a></li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                            </div>
-                        </div><!--/category-products-->
+                                    <h4 class="panel-title"><a href="blog6.html">การพิจารณาผลงาน</a></h4>
+                                 </div>
+                             </div>
+                         </div><!--/category-products-->
                     
 
                     
