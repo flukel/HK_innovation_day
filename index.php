@@ -154,18 +154,20 @@
                                 </div>
                             </div> -->
                             <div class="panel panel-default">
-                                <div class="">
-                                <ul class="nav nav-stacked ">
-                                <li></li>
-                                <li ><a href="index.html" class="active" >หน้าหลัก</a></li>
-                                <li ><a href="blog1.html" >หลักการและเหตุผล</a></li>
-                                <li ><a href="blog2.html" >วัตถุประสงค์</a></li>
-                                <li ><a href="blog3.html" >กำหนดการ</a></li>
-                                <li ><a href="blog4.html" >รูปแบบการนำเสนอผลงาน</a></li>
-                                <li ><a href="blog5.html" >การส่งบทความ</a></li>
-                                <li ><a href="blog6.html" >การพิจารณาผลงาน</a></li>
-                                </ul>
-                                </div>
+                                <div class="panel-heading">
+                                        <div class="mainmenu pull-left">
+                                        <ul class="nav nav-stacked ">
+
+                                        <li ><a href="index.php" class="active" > หน้าหลัก</a></li>
+                                        <li ><a href="blog1.html" >หลักการและเหตุผล</a></li>
+                                        <li ><a href="blog2.html" >วัตถุประสงค์</a></li>
+                                        <li ><a href="blog3.html" >กำหนดการ</a></li>
+                                        <li ><a href="blog4.html" >รูปแบบการนำเสนอผลงาน</a></li>
+                                        <li ><a href="blog5.html" >การส่งบทความ</a></li>
+                                        <li ><a href="blog6.html" >การพิจารณาผลงาน</a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
                             </div>
                         </div><!--/category-products-->
                     
