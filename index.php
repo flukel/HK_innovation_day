@@ -155,7 +155,7 @@
                             </div> -->
                             <div class="panel panel-default">
                                 <div class="mainmenu pull-left">
-                                <ul class="nav nav-stacked ">
+                                <ul class="nav nav-stacked collapse navbar-collapse">
                                 <li></li>
                                 <li ><a href="index.html" class="active" >หน้าหลัก</a></li>
                                 <li ><a href="blog1.html" >หลักการและเหตุผล</a></li>
