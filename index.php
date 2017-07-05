@@ -129,7 +129,7 @@
                         <div class="panel-group category-products" id="accordian"><!--category-productsr-->
                             <div class="single-widget">
                             <ul class="nav nav-pills nav-stacked text-center">
-                                <li class="active"><a href="index.html">หน้าหลัก</a></li>
+                                <li class="active"><a href="index.php">หน้าหลัก</a></li>
                                 <li><a href="blog1.html">หลักการและเหตุผล</a></li>
                                 <li><a href="blog2.html">วัตถุประสงค์</a></li>
                                 <li><a href="blog3.html">กำหนดการ</a></li>
