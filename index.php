@@ -49,7 +49,7 @@
                         </div>
                         <div class="mainmenu pull-left">
                             <ul class="nav navbar-nav collapse navbar-collapse">
-                                <li><a href="index.html" class="active">Home</a></li>
+                                <li><a href="index.php" class="active">Home</a></li>
                                 <li><a href="event_info.html">Event Info</a></li>
                                 <li><a href="adjudication.html">Adjudication</a></li>
                                 <li><a href="abstract.html">Abstract & Poster Submission</a></li>
@@ -57,13 +57,6 @@
                                 <li><a href="past_events.html">Past Events</a></li>
                                 <li><a href="contact_us.html">Contact Us</a></li>
                             </ul>
-<!--                                 <li class="dropdown"><a href="#">Blog<i class="fa fa-angle-down"></i></a>
-                                    <ul role="menu" class="sub-menu">
-                                        <li><a href="blog.html">Blog List</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
-                                    </ul>
-                                </li>  -->
-
                         </div>
                     </div>
                     <div class="col-sm-1">
@@ -128,8 +121,8 @@
                         <h2>เมนู</h2>
                         <div class="panel-group category-products" id="accordian"><!--category-productsr-->
                             <div class="single-widget">
-                            <ul class="nav nav-pills nav-stacked text-center">
-                                <li class="active"><a href="index.php">หน้าหลัก</a></li>
+                            <ul class="nav nav-pills orange nav-stacked text-center">
+                                <li class="active"><a href="index.html">หน้าหลัก</a></li>
                                 <li><a href="blog1.html">หลักการและเหตุผล</a></li>
                                 <li><a href="blog2.html">วัตถุประสงค์</a></li>
                                 <li><a href="blog3.html">กำหนดการ</a></li>
@@ -139,7 +132,6 @@
                             </ul>
                         </div>
                     </div><!--/category-products-->
-                    
 
                     
                     </div>
@@ -165,7 +157,7 @@
 
                             </div>
                              <div class="col-md-12">
-                                <img src="images/img3.png" width="75%" class ="img-responsive" >
+                                <img src="images/img3.png" width="75%" class ="img-responsive"  >
                                 <br>
                                 <p>TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT </p>
                             </div>

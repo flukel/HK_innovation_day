@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+
 a#scrollUp {
   bottom: 0px;
   right: 10px;
@@ -478,6 +479,7 @@ ul.sub-menu {
   border-top: 1px solid #FFFFFF;
   padding-top: 15px;
 }
+
 
 .single-widget h2 {
   color: #666663;
@@ -1023,6 +1025,11 @@ h2.title {
 .category-tab ul  li  a:hover{
 	background:#FE980F;
 	color:#fff;
+}
+
+.orange .active a,
+.orange .active a:hover{
+    background:#FE980F !important;
 }
 
 .nav-tabs  li.active  a, .nav-tabs  li.active  a:hover, .nav-tabs  li.active  a:focus {
